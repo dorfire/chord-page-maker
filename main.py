@@ -55,7 +55,6 @@ def main(args) -> int:
 		print('Required args: <comma separated chords> <output path> <rtl or ltr>')
 		print('Example:')
 		print('  Em,Am/F#~4,Em/G,Bsus4,Em,Am/F#~4,E/G#~4,Am,Em7/C,Em/C#~11,G/D~10,Dm7~10 ./out1.png rtl')
-		print('  Em,Am/F#~4,Em/G,Bsus4,Em,Am/F#~4,E/G#~4,Am,Em7/C,Em/C#~11,G/D~10,Dm7~10 ./out2.png rtl')
 		return 1
 
 	chords_raw, out_path, rtl_or_ltr = args
