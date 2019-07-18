@@ -1,4 +1,4 @@
-# chord-page-maker
+# Chord Page Maker
 Python utility that turns chord sequences into printable graphics.
 
 ## Usage
