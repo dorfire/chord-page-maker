@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+chord_cache/
+*.png
